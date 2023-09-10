@@ -15,7 +15,7 @@
             Mauris molestie neque quis placerat facilisis. Nam et ex egestas, rhoncus ligula vel, viverra odio.
             Etiam mattis velit nec arcu convallis varius. Nunc et lorem sem. 
             Suspendisse potenti. Phasellus vel tellus lectus. Sed fermentum feugiat pretium. 
-            Maecenas quis nulla eu sem eleifend eleifend.
+            Maecenas quis nulla eu sem eleifend eleifend. 
         </p>
     </div>
 </template>
