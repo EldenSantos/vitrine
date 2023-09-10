@@ -5,7 +5,7 @@
     <NuxtLink :to="`/products/${product.id}`">
       <p class="btn my-4">Detalhes</p>
     </NuxtLink>
-  </div> 
+  </div>
 </template>
 
 <script setup>
